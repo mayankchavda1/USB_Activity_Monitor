@@ -85,7 +85,7 @@ git clone https://github.com/mayankchavda1/USB_Activity_Monitor.git
 ## Open Project
 
 ```bash
-cd usb-activity-monitor
+cd USB_Activity_Monitor
 ```
 
 ## Install Dependencies
