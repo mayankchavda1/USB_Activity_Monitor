@@ -53,7 +53,7 @@ A lightweight Python-based USB Activity Monitoring and Forensic Logging System d
 # Project Structure
 
 ```text
-usb_activity_monitor/
+USB_Activity_Monitor/
 │
 ├── main.py
 ├── monitor.py
