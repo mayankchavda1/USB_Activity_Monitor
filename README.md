@@ -79,7 +79,7 @@ usb_activity_monitor/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/mayankchavda1/usb-activity-monitor.git
+git clone https://github.com/mayankchavda1/USB_Activity_Monitor.git
 ```
 
 ## Open Project
